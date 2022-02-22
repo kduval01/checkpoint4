@@ -57,7 +57,7 @@
 47) What happens if multiple engineers try to change the same area of a codebase from different points in time?
 48) What are the 3 stages of of tracking our work with git?
 49) What are the commands we'd use, in order, to move our changes through these stages?
-50) Is spacing in my Python code important? Why?
+50) Is spacing in my Python code important? Why? 
 
 
 
